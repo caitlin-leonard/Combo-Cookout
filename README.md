@@ -22,7 +22,7 @@ Can you uncover all the tasty combos?
 
 ## 🌐 Web Deployment (pygbag)
 
-To build the web version of **Louie Duck Adventure**:
+To build the web version of **Combo Cookout**:
 
 ```bash
 # 1. Go to the project folder
