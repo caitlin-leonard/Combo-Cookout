@@ -19,3 +19,18 @@ You’re not just mixing food — you’re solving delicious puzzles. Whether it
 - Wholesome and relaxing gameplay
 
 Can you uncover all the tasty combos?
+
+## 🌐 Web Deployment (pygbag)
+
+To build the web version of **Louie Duck Adventure**:
+
+```bash
+# 1. Go to the project folder
+cd /Users/caitlinleonard/PycharmProjects/giraffe/pythonProject/combo_cookout
+
+# 2. Build the web version with pygbag
+pygbag --build main.py
+
+# 3. Create a ZIP of the web build
+cd build/web
+zip -r combo_cookout.zip .
