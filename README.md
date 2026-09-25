@@ -2,6 +2,8 @@
 
 # 🥄 Combo Cookout
 
+![Description](screenshots/image1.png)
+
 Step into a playful kitchen where **two ingredients** are all it takes to whip up a surprise dish!
 
 You’re not just mixing food — you’re solving delicious puzzles. Whether it's Egg + Carrot = Omelette or Banana + Milk = Smoothie, every combo leads to something unexpected.
